@@ -5,7 +5,7 @@ psycopg2
 Flask-SQLAlchemy
 Flask-Cors
 raven[flask]
-marshmallow
+marshmallow==2.1
 influxdb
 flup6
 celery
